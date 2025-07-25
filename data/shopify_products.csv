@@ -1,0 +1,77 @@
+title,product_type,tags,release_date,discontinued_date,variant_size,variant_color,price,sku,inventory_quantity
+Classic Cotton Tee,T-Shirt,"casual, essentials",2024-01-01,,S,White,22,CCT-WH-S,19
+Classic Cotton Tee,T-Shirt,"casual, essentials",2024-01-01,,M,White,22,CCT-WH-M,47
+Classic Cotton Tee,T-Shirt,"casual, essentials",2024-01-01,,L,White,22,CCT-WH-L,42
+Classic Cotton Tee,T-Shirt,"casual, essentials",2024-01-01,,M,Black,22,CCT-BL-M,52
+Classic Cotton Tee,T-Shirt,"casual, essentials",2024-01-01,,L,Black,22,CCT-BL-L,12
+Classic Cotton Tee,T-Shirt,"casual, essentials",2024-01-01,,XL,Black,22,CCT-BL-XL,39
+Slim Fit Crew Tee,T-Shirt,"basics, slim",2024-01-01,,XS,White,20,SFCT-WH-XS,28
+Slim Fit Crew Tee,T-Shirt,"basics, slim",2024-01-01,,S,White,20,SFCT-WH-S,44
+Slim Fit Crew Tee,T-Shirt,"basics, slim",2024-01-01,,M,Black,20,SFCT-BL-M,3
+Slim Fit Crew Tee,T-Shirt,"basics, slim",2024-01-01,,L,Black,20,SFCT-BL-L,70
+Heavyweight Oversized Tee,T-Shirt,"streetwear, heavyweight",2024-01-01,,M,Beige,30,HOT-BE-M,21
+Heavyweight Oversized Tee,T-Shirt,"streetwear, heavyweight",2024-01-01,,L,Beige,30,HOT-BE-L,19
+Heavyweight Oversized Tee,T-Shirt,"streetwear, heavyweight",2024-01-01,,XL,Olive,30,HOT-OL-XL,64
+Oversized Pullover Hoodie,Hoodie,"oversized, winter",2024-01-01,,M,Grey,50,OPH-GR-M,43
+Oversized Pullover Hoodie,Hoodie,"oversized, winter",2024-01-01,,L,Grey,50,OPH-GR-L,4
+Oversized Pullover Hoodie,Hoodie,"oversized, winter",2024-01-01,,XL,Grey,50,OPH-GR-XL,41
+Oversized Pullover Hoodie,Hoodie,"oversized, winter",2024-01-01,,M,Black,50,OPH-BL-M,41
+Denim Jacket – Washed Black,Jacket,"denim, staple",2024-01-01,,M,Washed Black,70,DJ–WB-WA-M,35
+Denim Jacket – Washed Black,Jacket,"denim, staple",2024-01-01,,L,Washed Black,70,DJ–WB-WA-L,27
+Denim Jacket – Washed Black,Jacket,"denim, staple",2024-01-01,,XL,Washed Black,70,DJ–WB-WA-XL,64
+Relaxed Fit Chinos,Pants,"relaxed, staple",2024-01-01,,M,Khaki,40,RFC-KH-M,41
+Relaxed Fit Chinos,Pants,"relaxed, staple",2024-01-01,,L,Khaki,40,RFC-KH-L,39
+Relaxed Fit Chinos,Pants,"relaxed, staple",2024-01-01,,XL,Khaki,40,RFC-KH-XL,76
+Canvas Tote Bag,Accessories,"eco, tote",2024-01-01,,One Size,Natural,20,CTB-NA-ONESIZE,63
+Canvas Tote Bag,Accessories,"eco, tote",2024-01-01,,One Size,Black,20,CTB-BL-ONESIZE,54
+Wool Beanie,Hat,"winter, warm",2024-01-01,2025-02-28,One Size,Grey,20,WB-GR-ONESIZE,77
+Ankle Socks 3-Pack,Socks,"bundle, basics",2024-01-01,,One Size,White,12,AS3-WH-ONESIZE,42
+Ankle Socks 3-Pack,Socks,"bundle, basics",2024-01-01,,One Size,Black,12,AS3-BL-ONESIZE,5
+Vintage Washed Tee,T-Shirt,"retro, summer",2024-03-01,,M,Blue,25,VWT-BL-M,11
+Vintage Washed Tee,T-Shirt,"retro, summer",2024-03-01,,L,Blue,25,VWT-BL-L,3
+Vintage Washed Tee,T-Shirt,"retro, summer",2024-03-01,,M,Olive,25,VWT-OL-M,50
+Vintage Washed Tee,T-Shirt,"retro, summer",2024-03-01,,L,Olive,25,VWT-OL-L,40
+Mini Sling Bag,Accessories,"travel, casual",2024-03-01,,One Size,Black,28,MSB-BL-ONESIZE,6
+Mini Sling Bag,Accessories,"travel, casual",2024-03-01,,One Size,Olive,28,MSB-OL-ONESIZE,6
+Unisex Thermal Long Sleeve Tee,T-Shirt,"thermal, layer",2024-03-01,2025-02-28,M,Black,26,UTLST-BL-M,1
+Unisex Thermal Long Sleeve Tee,T-Shirt,"thermal, layer",2024-03-01,2025-02-28,L,Black,26,UTLST-BL-L,12
+Unisex Thermal Long Sleeve Tee,T-Shirt,"thermal, layer",2024-03-01,2025-02-28,XL,Grey,26,UTLST-GR-XL,4
+Graphic Print Tee,T-Shirt,"graphic, limited",2024-05-10,2024-08-10,S,Black,27,GPT-BL-S,29
+Graphic Print Tee,T-Shirt,"graphic, limited",2024-05-10,2024-08-10,M,Black,27,GPT-BL-M,66
+Graphic Print Tee,T-Shirt,"graphic, limited",2024-05-10,2024-08-10,L,White,27,GPT-WH-L,5
+Graphic Print Tee,T-Shirt,"graphic, limited",2024-05-10,2024-08-10,XL,White,27,GPT-WH-XL,33
+Boxy Hoodie – Capsule Drop,Hoodie,"capsule, limited",2024-05-10,2024-08-10,M,Olive,60,BH–CD-OL-M,14
+Boxy Hoodie – Capsule Drop,Hoodie,"capsule, limited",2024-05-10,2024-08-10,L,Olive,60,BH–CD-OL-L,33
+Boxy Hoodie – Capsule Drop,Hoodie,"capsule, limited",2024-05-10,2024-08-10,XL,Olive,60,BH–CD-OL-XL,34
+Wide Leg Utility Pants,Pants,"workwear, utility",2024-05-10,,M,Olive,45,WLUP-OL-M,56
+Wide Leg Utility Pants,Pants,"workwear, utility",2024-05-10,,L,Olive,45,WLUP-OL-L,5
+Wide Leg Utility Pants,Pants,"workwear, utility",2024-05-10,,XL,Olive,45,WLUP-OL-XL,4
+Minimalist Crewneck Sweatshirt,Sweatshirt,"crewneck, layer",2024-05-10,,M,Grey,35,MCS-GR-M,57
+Minimalist Crewneck Sweatshirt,Sweatshirt,"crewneck, layer",2024-05-10,,L,Grey,35,MCS-GR-L,40
+Minimalist Crewneck Sweatshirt,Sweatshirt,"crewneck, layer",2024-05-10,,XL,Black,35,MCS-BL-XL,72
+Coach Jacket – Lightweight,Jacket,"lightweight, summer",2024-06-15,2024-10-01,M,Blue,65,CJ–L-BL-M,64
+Coach Jacket – Lightweight,Jacket,"lightweight, summer",2024-06-15,2024-10-01,L,Blue,65,CJ–L-BL-L,28
+Coach Jacket – Lightweight,Jacket,"lightweight, summer",2024-06-15,2024-10-01,XL,Blue,65,CJ–L-BL-XL,47
+Relaxed Fit Cargo Shorts,Shorts,"summer, casual",2024-06-15,2024-09-15,M,Khaki,32,RFCS-KH-M,38
+Relaxed Fit Cargo Shorts,Shorts,"summer, casual",2024-06-15,2024-09-15,L,Khaki,32,RFCS-KH-L,5
+Relaxed Fit Cargo Shorts,Shorts,"summer, casual",2024-06-15,2024-09-15,XL,Olive,32,RFCS-OL-XL,80
+Loose Fit Tank Top,T-Shirt,"summer, minimal",2024-06-15,2024-09-15,M,White,18,LFTT-WH-M,16
+Loose Fit Tank Top,T-Shirt,"summer, minimal",2024-06-15,2024-09-15,L,White,18,LFTT-WH-L,77
+Loose Fit Tank Top,T-Shirt,"summer, minimal",2024-06-15,2024-09-15,XL,Grey,18,LFTT-GR-XL,12
+5-Panel Street Cap,Hat,"cap, street",2024-06-15,,One Size,Black,18,5SC-BL-ONESIZE,47
+5-Panel Street Cap,Hat,"cap, street",2024-06-15,,One Size,Olive,18,5SC-OL-ONESIZE,69
+Zip-Up Hoodie – Brushed Fleece,Hoodie,"zip, fleece",2024-09-10,,M,Navy,55,ZH–BF-NA-M,13
+Zip-Up Hoodie – Brushed Fleece,Hoodie,"zip, fleece",2024-09-10,,L,Navy,55,ZH–BF-NA-L,44
+Zip-Up Hoodie – Brushed Fleece,Hoodie,"zip, fleece",2024-09-10,,XL,Black,55,ZH–BF-BL-XL,17
+Slim Tapered Joggers,Pants,"joggers, loungewear",2024-09-10,,M,Black,38,STJ-BL-M,3
+Slim Tapered Joggers,Pants,"joggers, loungewear",2024-09-10,,L,Black,38,STJ-BL-L,31
+Corduroy Bucket Hat,Hat,"bucket, cozy",2024-09-10,,One Size,Brown,22,CBH-BR-ONESIZE,63
+Ribbed Crew Socks,Socks,"crew, ribbed",2024-09-10,,One Size,Grey,10,RCS-GR-ONESIZE,13
+Quilted Bomber Jacket,Jacket,"quilted, warm",2024-11-20,2025-02-28,M,Black,85,QBJ-BL-M,25
+Quilted Bomber Jacket,Jacket,"quilted, warm",2024-11-20,2025-02-28,L,Black,85,QBJ-BL-L,30
+Quilted Bomber Jacket,Jacket,"quilted, warm",2024-11-20,2025-02-28,XL,Black,85,QBJ-BL-XL,62
+Streetwear Messenger Bag,Accessories,"streetwear, limited",2024-11-20,,One Size,Grey,32,SMB-GR-ONESIZE,24
+Patterned Dress Socks,Socks,"dress, patterned",2024-11-20,,One Size,Navy,14,PDS-NA-ONESIZE,37
+Thermal Hoodie,Hoodie,"thermal, cozy",2025-02-10,2025-03-31,M,Beige,58,TH-BE-M,71
+Thermal Hoodie,Hoodie,"thermal, cozy",2025-02-10,2025-03-31,L,Beige,58,TH-BE-L,75
+Thermal Hoodie,Hoodie,"thermal, cozy",2025-02-10,2025-03-31,XL,Grey,58,TH-GR-XL,33

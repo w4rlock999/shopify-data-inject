@@ -1,0 +1,1153 @@
+[
+  {
+    "month": "2024-01",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 3
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 6
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 3
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 8
+      }
+    ]
+  },
+  {
+    "month": "2024-02",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 8
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 7
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 6
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 9
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 8
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 14
+      }
+    ]
+  },
+  {
+    "month": "2024-03",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 18
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 12
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 8
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 6
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 7
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "Unisex Thermal Long Sleeve Tee",
+        "quantity_sold": 5
+      }
+    ]
+  },
+  {
+    "month": "2024-04",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 18
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 12
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 8
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 6
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "Unisex Thermal Long Sleeve Tee",
+        "quantity_sold": 4
+      }
+    ]
+  },
+  {
+    "month": "2024-05",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 18
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 8
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 12
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 7
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 3
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 6
+      },
+      {
+        "product_title": "Unisex Thermal Long Sleeve Tee",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "Graphic Print Tee",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Boxy Hoodie",
+        "quantity_sold": 6
+      },
+      {
+        "product_title": "Wide Leg Utility Pants",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "Minimalist Crewneck Sweatshirt",
+        "quantity_sold": 6
+      }
+    ]
+  },
+  {
+    "month": "2024-06",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Unisex Thermal Long Sleeve Tee",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Graphic Print Tee",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Boxy Hoodie",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Wide Leg Utility Pants",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Minimalist Crewneck Sweatshirt",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Coach Jacket",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Relaxed Fit Cargo Shorts",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Loose Fit Tank Top",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "5-Panel Street Cap",
+        "quantity_sold": 5
+      }
+    ]
+  },
+  {
+    "month": "2024-07",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 8
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 18
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 12
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 22
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 14
+      },
+      {
+        "product_title": "Unisex Thermal Long Sleeve Tee",
+        "quantity_sold": 6
+      },
+      {
+        "product_title": "Graphic Print Tee",
+        "quantity_sold": 18
+      },
+      {
+        "product_title": "Boxy Hoodie",
+        "quantity_sold": 7
+      },
+      {
+        "product_title": "Wide Leg Utility Pants",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Minimalist Crewneck Sweatshirt",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "Coach Jacket",
+        "quantity_sold": 3
+      },
+      {
+        "product_title": "Relaxed Fit Cargo Shorts",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Loose Fit Tank Top",
+        "quantity_sold": 12
+      },
+      {
+        "product_title": "5-Panel Street Cap",
+        "quantity_sold": 10
+      }
+    ]
+  },
+  {
+    "month": "2024-08",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 28
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 12
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 14
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 8
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 18
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Unisex Thermal Long Sleeve Tee",
+        "quantity_sold": 7
+      },
+      {
+        "product_title": "Graphic Print Tee",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Boxy Hoodie",
+        "quantity_sold": 6
+      },
+      {
+        "product_title": "Wide Leg Utility Pants",
+        "quantity_sold": 8
+      },
+      {
+        "product_title": "Minimalist Crewneck Sweatshirt",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Coach Jacket",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "Relaxed Fit Cargo Shorts",
+        "quantity_sold": 6
+      },
+      {
+        "product_title": "Loose Fit Tank Top",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "5-Panel Street Cap",
+        "quantity_sold": 6
+      }
+    ]
+  },
+  {
+    "month": "2024-09",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 18
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 22
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 12
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 14
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 8
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 7
+      },
+      {
+        "product_title": "Unisex Thermal Long Sleeve Tee",
+        "quantity_sold": 16
+      },
+      {
+        "product_title": "Wide Leg Utility Pants",
+        "quantity_sold": 9
+      },
+      {
+        "product_title": "Minimalist Crewneck Sweatshirt",
+        "quantity_sold": 11
+      },
+      {
+        "product_title": "Coach Jacket",
+        "quantity_sold": 6
+      },
+      {
+        "product_title": "Relaxed Fit Cargo Shorts",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Loose Fit Tank Top",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "5-Panel Street Cap",
+        "quantity_sold": 3
+      },
+      {
+        "product_title": "Zip-Up Hoodie",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Slim Tapered Joggers",
+        "quantity_sold": 6
+      },
+      {
+        "product_title": "Corduroy Bucket Hat",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Ribbed Crew Socks",
+        "quantity_sold": 4
+      }
+    ]
+  },
+  {
+    "month": "2024-10",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 18
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 12
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 14
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 8
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 7
+      },
+      {
+        "product_title": "Unisex Thermal Long Sleeve Tee",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Wide Leg Utility Pants",
+        "quantity_sold": 9
+      },
+      {
+        "product_title": "Minimalist Crewneck Sweatshirt",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Coach Jacket",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "5-Panel Street Cap",
+        "quantity_sold": 6
+      },
+      {
+        "product_title": "Zip-Up Hoodie",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Slim Tapered Joggers",
+        "quantity_sold": 8
+      },
+      {
+        "product_title": "Corduroy Bucket Hat",
+        "quantity_sold": 4
+      },
+      {
+        "product_title": "Ribbed Crew Socks",
+        "quantity_sold": 6
+      }
+    ]
+  },
+  {
+    "month": "2024-11",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 50
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 40
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Unisex Thermal Long Sleeve Tee",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Wide Leg Utility Pants",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Minimalist Crewneck Sweatshirt",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "5-Panel Street Cap",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Zip-Up Hoodie",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Slim Tapered Joggers",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Corduroy Bucket Hat",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Ribbed Crew Socks",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Quilted Bomber Jacket",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Streetwear Messenger Bag",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Patterned Dress Socks",
+        "quantity_sold": 10
+      }
+    ]
+  },
+  {
+    "month": "2024-12",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 40
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 35
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Unisex Thermal Long Sleeve Tee",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Wide Leg Utility Pants",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Minimalist Crewneck Sweatshirt",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "5-Panel Street Cap",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Zip-Up Hoodie",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Slim Tapered Joggers",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Corduroy Bucket Hat",
+        "quantity_sold": 5
+      },
+      {
+        "product_title": "Ribbed Crew Socks",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Quilted Bomber Jacket",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Streetwear Messenger Bag",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Patterned Dress Socks",
+        "quantity_sold": 5
+      }
+    ]
+  },
+  {
+    "month": "2025-01",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 40
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Unisex Thermal Long Sleeve Tee",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Wide Leg Utility Pants",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Minimalist Crewneck Sweatshirt",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "5-Panel Street Cap",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Zip-Up Hoodie",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Slim Tapered Joggers",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Corduroy Bucket Hat",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Ribbed Crew Socks",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Quilted Bomber Jacket",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Streetwear Messenger Bag",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Patterned Dress Socks",
+        "quantity_sold": 10
+      }
+    ]
+  },
+  {
+    "month": "2025-02",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 45
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 40
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 50
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 55
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 35
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Wool Beanie",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 40
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Unisex Thermal Long Sleeve Tee",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Wide Leg Utility Pants",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Minimalist Crewneck Sweatshirt",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "5-Panel Street Cap",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Zip-Up Hoodie",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Slim Tapered Joggers",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Corduroy Bucket Hat",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Ribbed Crew Socks",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Quilted Bomber Jacket",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Streetwear Messenger Bag",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Patterned Dress Socks",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Thermal Hoodie",
+        "quantity_sold": 20
+      }
+    ]
+  },
+  {
+    "month": "2025-03",
+    "product_list": [
+      {
+        "product_title": "Classic Cotton Tee",
+        "quantity_sold": 60
+      },
+      {
+        "product_title": "Slim Fit Crew Tee",
+        "quantity_sold": 55
+      },
+      {
+        "product_title": "Heavyweight Oversized Tee",
+        "quantity_sold": 40
+      },
+      {
+        "product_title": "Oversized Pullover Hoodie",
+        "quantity_sold": 35
+      },
+      {
+        "product_title": "Denim Jacket",
+        "quantity_sold": 50
+      },
+      {
+        "product_title": "Relaxed Fit Chinos",
+        "quantity_sold": 45
+      },
+      {
+        "product_title": "Canvas Tote Bag",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Ankle Socks 3-Pack",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Vintage Washed Tee",
+        "quantity_sold": 30
+      },
+      {
+        "product_title": "Mini Sling Bag",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Wide Leg Utility Pants",
+        "quantity_sold": 25
+      },
+      {
+        "product_title": "Minimalist Crewneck Sweatshirt",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "5-Panel Street Cap",
+        "quantity_sold": 15
+      },
+      {
+        "product_title": "Zip-Up Hoodie",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Slim Tapered Joggers",
+        "quantity_sold": 20
+      },
+      {
+        "product_title": "Corduroy Bucket Hat",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Ribbed Crew Socks",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Streetwear Messenger Bag",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Patterned Dress Socks",
+        "quantity_sold": 10
+      },
+      {
+        "product_title": "Thermal Hoodie",
+        "quantity_sold": 12
+      }
+    ]
+  }
+]
